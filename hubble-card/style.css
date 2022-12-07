@@ -1,0 +1,46 @@
+* {
+    box-sizing: border-box;
+    font-family: "Segoe Ui", 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+body {
+    max-width: 500px;
+    margin: auto;
+}
+
+.card {
+    border-radius: 20px;
+    box-shadow: 1px 5px;
+    width: 350px;
+}
+
+img {
+    border-radius: 20px 20px 0 0;
+    height: 264px;
+    width: 350px;
+    
+}
+
+.card-text {
+    padding: 15px;
+}
+
+.category {
+    font-size: 12px;
+    color: blue;
+    margin-top: 14px;
+}
+
+h2 {
+    font-size: 30px;
+    font-weight: bold;
+    margin-top: 7px;
+    text-transform: capitalize;
+}
+
+p {
+    color: rgb(63,63,63);
+    padding: 0 15px;
+    
+}
